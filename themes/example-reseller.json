@@ -1,0 +1,10 @@
+{
+  "slug": "acme-analytics",
+  "name": "Acme Analytics",
+  "logoUrl": "https://example.com/acme-logo.png",
+  "primaryColor": "#1F3A93",
+  "accentColor": "#F39C12",
+  "supportEmail": "support@acme-analytics.example",
+  "footerText": "(c) 2026 Acme Analytics",
+  "hidePoweredBy": false
+}
