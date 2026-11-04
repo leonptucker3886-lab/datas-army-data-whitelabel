@@ -1,0 +1,9 @@
+date,metric,value,client
+2026-10-05,revenue,"12,450.00",Acme Dental
+2026-10-05,leads,38,Acme Dental
+2026-10-12,revenue,13120.50,Acme Dental
+2026-10-12,leads,41,Acme Dental
+2026-10-19,revenue,11980,Acme Dental
+2026-10-19,leads,35,Acme Dental
+2026-10-26,revenue,14210.25,Acme Dental
+2026-10-26,leads,44,Acme Dental
