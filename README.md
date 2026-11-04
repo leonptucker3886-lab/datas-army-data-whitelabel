@@ -19,7 +19,7 @@ A data-reporting product that local agencies and resellers can sell under their 
 3. **Domain:** reseller points a subdomain (e.g. `reports.theiragency.com`) at the deploy.
 4. **Client onboarding:** reseller adds a client, uploads a sample CSV, confirms column mapping.
 5. **Reports:** PDF template pulls brand config, so every report carries the reseller's brand.
-6. **Pricing guide for resellers:** suggested per-location price (to be set by the team lead; no price commitments in this repo yet).
+6. **Pricing:** resellers pay Data's Army **$99/month per reseller client** (set 4 Nov 2026, confirmed by Leon). Suggested resale to the end client: about $199-$249/month.
 7. **QA checklist:** brand swap test, CSV edge cases, PDF render, mobile at 375 px.
 
 ## Status
